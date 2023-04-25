@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "christopher-force-portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Christopher Force's Portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -13,12 +13,12 @@
     "url": "git+https://github.com/cobiwave/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Christopher Force",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/Christopher-Force/simplefolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/Christopher-Force/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
